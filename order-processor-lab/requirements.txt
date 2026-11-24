@@ -1,0 +1,4 @@
+pydantic==2.14.4
+pydantic_core==2.50.5
+pytest==9.2.0
+ruff==0.17.6
